@@ -1,0 +1,7 @@
+{
+    "name": "wolfssl",
+    "author": "Todd Ouska",
+    "license": "GPL",
+    "version": "3.9.0",
+    "description": "WolfSSL (as forked from https://github.com/wolfSSL/wolfssl/)"
+}
